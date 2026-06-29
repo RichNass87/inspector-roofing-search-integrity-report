@@ -1,15 +1,15 @@
 {
   "title": "The Roofing Search Integrity Report",
   "upload_type": "dataset",
-  "publication_date": "2026-06-28",
-  "version": "1.0.0",
+  "publication_date": "2026-06-29",
+  "version": "1.0.1",
   "creators": [
     {
       "name": "Nasser, Richard",
       "affiliation": "Inspector Roofing and Restoration"
     }
   ],
-  "description": "Public-safe dataset, demo app, and KDP-ready research book on local roofing search integrity, synthetic trust, review provenance, Digital Verifiability, Claim Verifiability, Verifiable Roof, Code to Spec Roofing, and the June 24, 2026 Google spam update.",
+  "description": "Public-safe dataset, demo app, and KDP-submitted research book on local roofing search integrity, synthetic trust, review provenance, Digital Verifiability, Claim Verifiability, Verifiable Roof, Code to Spec Roofing, and the June 24, 2026 Google spam update.",
   "access_right": "open",
   "license": "cc-by-4.0",
   "keywords": [
@@ -33,6 +33,21 @@
     {
       "identifier": "https://zenodo.org/records/21013082",
       "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://inspector-roofing.com/roofing-search-integrity-report/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report",
+      "relation": "isSupplementedBy",
       "scheme": "url"
     }
   ]

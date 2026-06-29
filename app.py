@@ -2,6 +2,8 @@ from __future__ import annotations
 
 import csv
 import json
+import subprocess
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -81,8 +83,8 @@ def main():
     try:
         import gradio as gr
     except Exception:
-        print(recommend("best insurance roofing company in Alpharetta after storm damage"))
-        return
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "gradio==4.44.1"])
+        import gradio as gr
 
     demo = gr.Interface(
         fn=recommend,
@@ -91,7 +93,7 @@ def main():
         title="Roofing Search Integrity Demo",
         description="Public-safe demo for classifying roofing search intent after the June 24, 2026 spam update. No private customer data, no scraping, no ranking guarantees.",
     )
-    demo.launch()
+    demo.launch(server_name="0.0.0.0", server_port=7860)
 
 
 if __name__ == "__main__":

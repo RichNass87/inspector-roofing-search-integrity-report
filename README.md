@@ -27,10 +27,10 @@ size_categories:
 
 **Author:** Richard Nasser  
 **Organization:** Inspector Roofing and Restoration  
-**Version:** 1.0.0  
-**Book manuscript word count:** 20692
+**Version:** 1.0.1  
+**Book manuscript word count:** 9,057 clean KDP words
 
-This repository packages a public-safe research dataset, technical framework, demo app, and KDP-ready book files about local roofing search integrity after the March-May-June 2026 Google update sequence, with special attention to the June 24, 2026 spam update.
+This repository packages a public-safe research dataset, technical framework, demo app, and KDP-submitted book files about local roofing search integrity after the March-May-June 2026 Google update sequence, with special attention to the June 24, 2026 spam update.
 
 The project frames roofing search as a trust and verifiability problem rather than a keyword-volume contest. It documents synthetic trust, review provenance, content provenance, locality provenance, Claim Verifiability, Verifiable Roof, Code to Spec Roofing, and source-spine development.
 
@@ -41,9 +41,10 @@ The project frames roofing search as a trust and verifiability problem rather th
 - `data/roofing_integrity_signals.jsonl` - public-safe integrity signal taxonomy.
 - `data/search_integrity_framework.json` - governance references, source notes, and framework terms.
 - `app.py` - lightweight Gradio demo for query/page-intent classification.
-- `book/roofing-search-integrity-report-kdp-manuscript.docx` - KDP interior master.
-- `book/roofing-search-integrity-report-kdp-interior.pdf` - rendered reader PDF.
-- `book/roofing-search-integrity-report-kdp-cover.png` - cover image.
+- `dist/kdp-v1.0.1/roofing-search-integrity-report-kdp-manuscript-6x9-v1.0.1.docx` - clean KDP manuscript.
+- `dist/kdp-v1.0.1/roofing-search-integrity-report-kdp-print-interior-6x9-v1.0.1.pdf` - KDP print interior.
+- `dist/kdp-v1.0.1/roofing-search-integrity-report-kdp-full-cover-6x9-v1.0.1.pdf` - KDP full paperback cover.
+- `dist/kdp-v1.0.1/roofing-search-integrity-report-kdp-cover.png` - public cover image.
 
 ## Live publication links
 
@@ -52,8 +53,10 @@ The project frames roofing search as a trust and verifiability problem rather th
 - Hugging Face demo Space: https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo
 - Kaggle dataset: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report
 - Atlas source-spine DOI record already published: https://zenodo.org/records/21013082
+- Inspector Roofing report page: https://inspector-roofing.com/roofing-search-integrity-report/
+- Amazon KDP status as of 2026-06-29: Kindle eBook submitted and in review at $4.99 USD; paperback submitted and publishing at $9.99 USD. Add the final public Amazon product URL after KDP review assigns/opens the sales page.
 
-Zenodo, ORCID, and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`.
+Zenodo, ORCID, and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`. The new Roofing Search Integrity Zenodo DOI should be added here after the Zenodo deposit is published.
 
 ## Public-safe boundaries
 

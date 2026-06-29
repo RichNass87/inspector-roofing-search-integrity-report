@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this dataset or framework, please cite it."
 title: "The Roofing Search Integrity Report"
-version: "1.0.0"
-date-released: "2026-06-28"
+version: "1.0.1"
+date-released: "2026-06-29"
 authors:
   - family-names: Nasser
     given-names: Richard
@@ -18,3 +18,4 @@ keywords:
   - Verifiable Roof
 license: CC-BY-4.0
 repository-code: "https://github.com/RichNass87/inspector-roofing-search-integrity-report"
+url: "https://inspector-roofing.com/roofing-search-integrity-report/"
