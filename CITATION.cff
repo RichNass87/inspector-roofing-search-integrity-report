@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset or framework, please cite it."
 title: "The Roofing Search Integrity Report"
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-06-29"
 authors:
   - family-names: Nasser
