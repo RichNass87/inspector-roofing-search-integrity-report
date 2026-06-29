@@ -50,6 +50,7 @@
 - Hugging Face Space records moved past the missing-SDK configuration error after README front matter was updated.
 - GitHub release v1.0.1 created and Zenodo minted DOI 10.5281/zenodo.21040534.
 - GitHub release v1.0.2 prepared after Amazon paperback listing went live, adding paperback ASIN B0H6XXDL9X, ISBN-13 979-8184859057, and public Amazon URL https://www.amazon.com/dp/B0H6XXDL9X across README, schema, Zenodo metadata, citation metadata, Kaggle metadata, and the source-spine registry.
+- GitHub release v1.0.3 prepared to include the visible Gradio app source-spine note with DOI, Amazon paperback URL, and ISBN-13 in the demo UI.
 - Hugging Face Spaces were updated to Gradio 6.19.0 after Gradio 4.x failed on the current Hugging Face Python runtime.
 
 ## Public-safe boundaries

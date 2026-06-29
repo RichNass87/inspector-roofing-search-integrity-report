@@ -27,7 +27,7 @@ size_categories:
 
 **Author:** Richard Nasser  
 **Organization:** Inspector Roofing and Restoration  
-**Version:** 1.0.2  
+**Version:** 1.0.3  
 **Book manuscript word count:** 9,057 clean KDP words
 
 This repository packages a public-safe research dataset, technical framework, demo app, and KDP-submitted book files about local roofing search integrity after the March-May-June 2026 Google update sequence, with special attention to the June 24, 2026 spam update.
@@ -91,4 +91,4 @@ The framework references these pending applications only as pending:
 
 ## Suggested citation
 
-Nasser, Richard. *The Roofing Search Integrity Report: A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search*. Version 1.0.2. Inspector Roofing and Restoration, 2026. Paperback ISBN-13: 979-8184859057. Amazon paperback: https://www.amazon.com/dp/B0H6XXDL9X.
+Nasser, Richard. *The Roofing Search Integrity Report: A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search*. Version 1.0.3. Inspector Roofing and Restoration, 2026. Paperback ISBN-13: 979-8184859057. Amazon paperback: https://www.amazon.com/dp/B0H6XXDL9X.
