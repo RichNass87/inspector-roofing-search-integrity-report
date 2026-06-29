@@ -32,4 +32,4 @@ Use:
 
 ## Current KDP status
 
-As of 2026-06-29, Kindle eBook is submitted/in review at $4.99 USD and paperback is submitted/publishing at $9.99 USD. Add the final Amazon sales URL after KDP makes the title public.
+As of 2026-06-29, Kindle eBook is publishing/in review at $4.99 USD with ASIN B0H6XVP47W. Paperback is publishing at $9.99 USD with ASIN B0H6XXDL9X. Add final Amazon sales URLs after KDP makes the title pages public.

@@ -26,4 +26,4 @@ Google Search; local SEO; AI search; search integrity; roofing; fake reviews; Di
 - Amazon author profile: https://www.amazon.com/author/richard-nasser
 
 ## Amazon/KDP status
-As of June 29, 2026, the Kindle eBook has been submitted to KDP and is in review at $4.99 USD. The paperback has been submitted and is in publishing at $9.99 USD. Add the final public Amazon product URL after KDP review opens the live sales page.
+As of June 29, 2026, the Kindle eBook is publishing/in review at $4.99 USD with ASIN B0H6XVP47W. The paperback is publishing at $9.99 USD with ASIN B0H6XXDL9X. Add the final public Amazon sales URLs after Amazon makes the title pages fully live.

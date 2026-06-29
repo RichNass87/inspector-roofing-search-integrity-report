@@ -9,7 +9,7 @@
       "affiliation": "Inspector Roofing and Restoration"
     }
   ],
-  "description": "Public-safe dataset, demo app, and KDP-submitted research book on local roofing search integrity, synthetic trust, review provenance, Digital Verifiability, Claim Verifiability, Verifiable Roof, Code to Spec Roofing, and the June 24, 2026 Google spam update.",
+  "description": "Public-safe dataset, demo app, and KDP-submitted research book on local roofing search integrity, synthetic trust, review provenance, Digital Verifiability, Claim Verifiability, Verifiable Roof, Code to Spec Roofing, and the June 24, 2026 Google spam update. KDP identifiers as of June 29, 2026: Kindle ASIN B0H6XVP47W; paperback ASIN B0H6XXDL9X.",
   "access_right": "open",
   "license": "cc-by-4.0",
   "keywords": [
@@ -48,6 +48,11 @@
     {
       "identifier": "https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report",
       "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.amazon.com/author/richard-nasser",
+      "relation": "isDocumentedBy",
       "scheme": "url"
     }
   ]

@@ -8,7 +8,7 @@
 - Kaggle dataset published and ready: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report
 - Local KDP/source-spine ZIP created: `/Users/richardnasser/Desktop/inspector-roofing-search-integrity-report-kdp-source-spine-v1.0.0.zip`
 - Inspector Roofing report page published: https://inspector-roofing.com/roofing-search-integrity-report/
-- Amazon KDP submitted on 2026-06-29: Kindle eBook in review at $4.99 USD; paperback publishing at $9.99 USD. Public Amazon product URL still pending.
+- Amazon KDP submitted on 2026-06-29: Kindle eBook publishing/in review at $4.99 USD, ASIN B0H6XVP47W; paperback publishing at $9.99 USD, ASIN B0H6XXDL9X. Public Amazon sales URLs still pending final Amazon availability.
 - Hugging Face Space metadata fixed on 2026-06-29 with `sdk: gradio` and pinned Gradio requirements.
 
 ## Built and verified
@@ -40,7 +40,10 @@
 - Kindle eBook status: In review.
 - Paperback status: Publishing.
 - Hardcover: not created.
-- Public Amazon sales URL/ASIN: pending KDP review/publication.
+- Kindle ASIN: B0H6XVP47W.
+- Paperback ASIN: B0H6XXDL9X.
+- Public Amazon sales URLs: pending final Amazon availability.
+- Hugging Face runtime compatibility fixed with `audioop-lts>=0.2.1` and `huggingface_hub<1.0` pins.
 - Hugging Face Space records moved past the missing-SDK configuration error after README front matter was updated.
 
 ## Public-safe boundaries

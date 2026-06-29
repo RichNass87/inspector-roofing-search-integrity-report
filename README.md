@@ -54,7 +54,7 @@ The project frames roofing search as a trust and verifiability problem rather th
 - Kaggle dataset: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report
 - Atlas source-spine DOI record already published: https://zenodo.org/records/21013082
 - Inspector Roofing report page: https://inspector-roofing.com/roofing-search-integrity-report/
-- Amazon KDP status as of 2026-06-29: Kindle eBook submitted and in review at $4.99 USD; paperback submitted and publishing at $9.99 USD. Add the final public Amazon product URL after KDP review assigns/opens the sales page.
+- Amazon KDP status as of 2026-06-29: Kindle eBook publishing/in review at $4.99 USD, ASIN `B0H6XVP47W`; paperback publishing at $9.99 USD, ASIN `B0H6XXDL9X`. Add final public Amazon sales URLs after the pages are fully live.
 
 Zenodo, ORCID, and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`. The new Roofing Search Integrity Zenodo DOI should be added here after the Zenodo deposit is published.
 
@@ -82,4 +82,4 @@ The framework references these pending applications only as pending:
 
 ## Suggested citation
 
-Nasser, Richard. *The Roofing Search Integrity Report: A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search*. Version 1.0.0. Inspector Roofing and Restoration, 2026.
+Nasser, Richard. *The Roofing Search Integrity Report: A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search*. Version 1.0.1. Inspector Roofing and Restoration, 2026.
