@@ -12,6 +12,18 @@
     "name": "Inspector Roofing and Restoration"
   },
   "license": "https://creativecommons.org/licenses/by/4.0/",
+  "identifier": [
+    "10.5281/zenodo.21040534",
+    "B0H6XVP47W",
+    "B0H6XXDL9X",
+    "979-8184859057"
+  ],
+  "citation": {
+    "@type": "Book",
+    "name": "The Roofing Search Integrity Report",
+    "isbn": "979-8184859057",
+    "url": "https://www.amazon.com/dp/B0H6XXDL9X"
+  },
   "keywords": [
     "roofing",
     "Google Search",
@@ -34,6 +46,7 @@
   "sameAs": [
     "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
     "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
-    "https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report"
+    "https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report",
+    "https://www.amazon.com/dp/B0H6XXDL9X"
   ]
 }

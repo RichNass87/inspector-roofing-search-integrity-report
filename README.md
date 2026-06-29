@@ -59,6 +59,7 @@ The project frames roofing search as a trust and verifiability problem rather th
 - Amazon author profile: https://www.amazon.com/author/richard-nasser
 - Amazon Kindle edition: https://www.amazon.com/dp/B0H6XVP47W
 - Amazon paperback edition: https://www.amazon.com/dp/B0H6XXDL9X
+- Amazon paperback ISBN-13: 979-8184859057
 
 ORCID and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`. The Zenodo DOI for this release is `10.5281/zenodo.21040534`.
 
@@ -90,4 +91,4 @@ The framework references these pending applications only as pending:
 
 ## Suggested citation
 
-Nasser, Richard. *The Roofing Search Integrity Report: A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search*. Version 1.0.1. Inspector Roofing and Restoration, 2026.
+Nasser, Richard. *The Roofing Search Integrity Report: A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search*. Version 1.0.1. Inspector Roofing and Restoration, 2026. Paperback ISBN-13: 979-8184859057. Amazon paperback: https://www.amazon.com/dp/B0H6XXDL9X.

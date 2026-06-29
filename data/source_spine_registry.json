@@ -9,7 +9,8 @@
     "hugging_face_space": "https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo",
     "kaggle_dataset": "https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report",
     "amazon_kindle": "https://www.amazon.com/dp/B0H6XVP47W",
-    "amazon_paperback": "https://www.amazon.com/dp/B0H6XXDL9X"
+    "amazon_paperback": "https://www.amazon.com/dp/B0H6XXDL9X",
+    "paperback_isbn13": "979-8184859057"
   },
   {
     "name": "Atlas Query Intelligence",

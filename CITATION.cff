@@ -7,7 +7,7 @@ authors:
   - family-names: Nasser
     given-names: Richard
     affiliation: "Inspector Roofing and Restoration"
-abstract: "Public-safe research dataset, app, and book package about roofing search integrity, synthetic trust, AI answer readiness, and digital verifiability. KDP identifiers: Kindle ASIN B0H6XVP47W; paperback ASIN B0H6XXDL9X."
+abstract: "Public-safe research dataset, app, and book package about roofing search integrity, synthetic trust, AI answer readiness, and digital verifiability. KDP identifiers: Kindle ASIN B0H6XVP47W; paperback ASIN B0H6XXDL9X; paperback ISBN-13 979-8184859057."
 keywords:
   - Google Search
   - local SEO
@@ -20,3 +20,10 @@ license: CC-BY-4.0
 repository-code: "https://github.com/RichNass87/inspector-roofing-search-integrity-report"
 url: "https://inspector-roofing.com/roofing-search-integrity-report/"
 doi: "10.5281/zenodo.21040534"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21040534"
+  - type: url
+    value: "https://www.amazon.com/dp/B0H6XXDL9X"
+  - type: other
+    value: "ISBN-13: 979-8184859057"

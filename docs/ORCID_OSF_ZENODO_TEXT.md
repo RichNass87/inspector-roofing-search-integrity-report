@@ -26,6 +26,8 @@ Google Search; local SEO; AI search; search integrity; roofing; fake reviews; Di
 - Zenodo record: https://zenodo.org/records/21040534
 - Inspector Roofing report page: https://inspector-roofing.com/roofing-search-integrity-report/
 - Amazon author profile: https://www.amazon.com/author/richard-nasser
+- Amazon paperback: https://www.amazon.com/dp/B0H6XXDL9X
+- Paperback ISBN-13: 979-8184859057
 
 ## Amazon/KDP status
-As of June 29, 2026, the Kindle eBook is publishing/in review at $4.99 USD with ASIN B0H6XVP47W. The paperback is publishing at $9.99 USD with ASIN B0H6XXDL9X. Add the final public Amazon sales URLs after Amazon makes the title pages fully live.
+As of June 29, 2026, the Kindle eBook is publishing/in review at $4.99 USD with ASIN B0H6XVP47W. The paperback is publishing at $9.99 USD with ASIN B0H6XXDL9X, ISBN-13 979-8184859057, and public Amazon URL https://www.amazon.com/dp/B0H6XXDL9X.
