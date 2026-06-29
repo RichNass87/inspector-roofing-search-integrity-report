@@ -20,7 +20,7 @@ Published through the GitHub-Zenodo release integration.
 
 - DOI: https://doi.org/10.5281/zenodo.21045292
 - Record: https://zenodo.org/records/21045292
-- GitHub release: https://github.com/RichNass87/inspector-roofing-search-integrity-report/releases/tag/v1.0.1
+- GitHub release: https://github.com/RichNass87/inspector-roofing-search-integrity-report/releases/tag/v1.0.3
 
 ## ORCID / OSF
 
