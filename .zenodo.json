@@ -1,0 +1,39 @@
+{
+  "title": "The Roofing Search Integrity Report",
+  "upload_type": "dataset",
+  "publication_date": "2026-06-28",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Nasser, Richard",
+      "affiliation": "Inspector Roofing and Restoration"
+    }
+  ],
+  "description": "Public-safe dataset, demo app, and KDP-ready research book on local roofing search integrity, synthetic trust, review provenance, Digital Verifiability, Claim Verifiability, Verifiable Roof, Code to Spec Roofing, and the June 24, 2026 Google spam update.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Google Search",
+    "search integrity",
+    "local SEO",
+    "AI search",
+    "roofing",
+    "fake reviews",
+    "digital verifiability",
+    "Generative Engine Optimization",
+    "Claim Verifiability",
+    "Verifiable Roof"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/RichNass87/inspector-roofing-atlas-query-intelligence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://zenodo.org/records/21013082",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

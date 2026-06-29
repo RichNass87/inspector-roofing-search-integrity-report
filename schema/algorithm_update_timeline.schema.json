@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Roofing Search Integrity Timeline Record",
+  "type": "object",
+  "required": [
+    "record_type",
+    "start_date",
+    "event_name",
+    "change_type",
+    "source_url",
+    "roofing_search_implication"
+  ],
+  "properties": {
+    "record_type": {
+      "type": "string"
+    },
+    "start_date": {
+      "type": "string"
+    },
+    "end_date": {
+      "type": "string"
+    },
+    "year": {
+      "type": "string"
+    },
+    "event_name": {
+      "type": "string"
+    },
+    "change_type": {
+      "type": "string"
+    },
+    "source_key": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "roofing_search_implication": {
+      "type": "string"
+    },
+    "public_safe_note": {
+      "type": "string"
+    }
+  }
+}

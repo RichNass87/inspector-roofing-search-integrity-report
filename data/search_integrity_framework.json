@@ -1,0 +1,97 @@
+{
+  "name": "Roofing Search Integrity Framework",
+  "version": "1.0.0",
+  "publisher": "Inspector Roofing and Restoration",
+  "author": "Richard Nasser",
+  "public_safety_position": [
+    "No private customer data.",
+    "No automated scraping of Google results.",
+    "No ranking guarantee.",
+    "No accusations against named competitors without legal review.",
+    "Pending USPTO applications are described as pending, not registered."
+  ],
+  "governance_references": [
+    {
+      "mark": "Inspector Roofing Protocols",
+      "serial": "99910245",
+      "status": "Pending USPTO trademark application",
+      "url": "https://tsdr.uspto.gov/#caseNumber=99910245&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+    },
+    {
+      "mark": "Claim Verifiability",
+      "serial": "99910275",
+      "status": "Pending USPTO trademark/service mark application",
+      "url": "https://tsdr.uspto.gov/#caseNumber=99910275&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+    },
+    {
+      "mark": "Verifiable Roof",
+      "serial": "99910284",
+      "status": "Pending USPTO trademark/service mark application",
+      "url": "https://tsdr.uspto.gov/#caseNumber=99910284&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+    }
+  ],
+  "components": [
+    "Algorithmic Fragility",
+    "Claim Verifiability",
+    "Content Provenance",
+    "Contractor Trust Surface",
+    "Digital Verifiability",
+    "Locality Provenance",
+    "Photo Provenance",
+    "Review Provenance",
+    "Source-Spine",
+    "Synthetic Trust",
+    "Verifiable Roof"
+  ],
+  "sources": [
+    {
+      "source_key": "google_search_status_history",
+      "title": "Google Search Status Dashboard - Ranking history",
+      "publisher": "Google",
+      "url": "https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history",
+      "notes": "Used for public update names, dates, and rollout durations from 2021 through June 2026."
+    },
+    {
+      "source_key": "google_june_2026_spam_update",
+      "title": "June 2026 spam update",
+      "publisher": "Google Search Status Dashboard",
+      "url": "https://status.search.google.com/incidents/YUX1peHev5a4fkxLDiUQ",
+      "notes": "Incident began 2026-06-24 09:00 Pacific and ended 2026-06-26 10:00 Pacific."
+    },
+    {
+      "source_key": "google_spam_policies",
+      "title": "Spam policies for Google web search",
+      "publisher": "Google Search Central",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "notes": "Policy source for spam, scaled content abuse, doorway-like patterns, and manipulation language."
+    },
+    {
+      "source_key": "google_helpful_content",
+      "title": "Creating helpful, reliable, people-first content",
+      "publisher": "Google Search Central",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "notes": "Policy source for people-first content guidance."
+    },
+    {
+      "source_key": "google_ai_optimization",
+      "title": "AI features and your website",
+      "publisher": "Google Search Central",
+      "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "notes": "Source for AI Search features, retrieval, and source usefulness framing."
+    },
+    {
+      "source_key": "google_maps_fake_engagement",
+      "title": "Fake engagement policy",
+      "publisher": "Google Maps user contributed content policy",
+      "url": "https://support.google.com/contributionpolicy/answer/7400114",
+      "notes": "Policy source for genuine reviews, incentives, selective solicitation, and fake engagement."
+    },
+    {
+      "source_key": "google_business_profile_local_ranking",
+      "title": "How to improve your local ranking on Google",
+      "publisher": "Google Business Profile Help",
+      "url": "https://support.google.com/business/answer/7091",
+      "notes": "Source for relevance, distance, and prominence local ranking framing."
+    }
+  ]
+}

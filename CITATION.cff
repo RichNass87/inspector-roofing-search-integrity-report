@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset or framework, please cite it."
+title: "The Roofing Search Integrity Report"
+version: "1.0.0"
+date-released: "2026-06-28"
+authors:
+  - family-names: Nasser
+    given-names: Richard
+    affiliation: "Inspector Roofing and Restoration"
+abstract: "Public-safe research dataset, app, and book package about roofing search integrity, synthetic trust, AI answer readiness, and digital verifiability."
+keywords:
+  - Google Search
+  - local SEO
+  - roofing
+  - AI search
+  - search integrity
+  - Claim Verifiability
+  - Verifiable Roof
+license: CC-BY-4.0
+repository-code: "https://github.com/RichNass87/inspector-roofing-search-integrity-report"

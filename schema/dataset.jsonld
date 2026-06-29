@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "The Roofing Search Integrity Report",
+  "description": "A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search",
+  "creator": {
+    "@type": "Person",
+    "name": "Richard Nasser"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Inspector Roofing and Restoration"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": [
+    "roofing",
+    "Google Search",
+    "AI search",
+    "search integrity",
+    "digital verifiability"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "data/algorithm_update_timeline_2016_2026.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/jsonl",
+      "contentUrl": "data/algorithm_update_timeline_2016_2026.jsonl"
+    }
+  ],
+  "sameAs": [
+    "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
+    "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
+    "https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report"
+  ]
+}
