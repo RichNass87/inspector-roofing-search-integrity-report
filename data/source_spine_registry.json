@@ -2,8 +2,8 @@
   {
     "name": "The Roofing Search Integrity Report",
     "github": "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
-    "zenodo_doi": "10.5281/zenodo.21040534",
-    "zenodo_record": "https://zenodo.org/records/21040534",
+    "zenodo_doi": "10.5281/zenodo.21045292",
+    "zenodo_record": "https://zenodo.org/records/21045292",
     "website": "https://inspector-roofing.com/roofing-search-integrity-report/",
     "hugging_face_dataset": "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
     "hugging_face_space": "https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo",

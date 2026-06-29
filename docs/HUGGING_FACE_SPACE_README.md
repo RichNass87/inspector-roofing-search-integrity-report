@@ -13,7 +13,7 @@ Public-safe Gradio app for classifying roofing search intent, homeowner question
 
 The demo is part of *The Roofing Search Integrity Report* source spine.
 
-- DOI: https://doi.org/10.5281/zenodo.21040534
+- DOI: https://doi.org/10.5281/zenodo.21045292
 - GitHub: https://github.com/RichNass87/inspector-roofing-search-integrity-report
 - Dataset: https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report
 - Kaggle: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report

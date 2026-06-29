@@ -11,8 +11,9 @@
 - Amazon KDP submitted on 2026-06-29: Kindle eBook publishing/in review at $4.99 USD, ASIN B0H6XVP47W; paperback publishing at $9.99 USD, ASIN B0H6XXDL9X, ISBN-13 979-8184859057, public Amazon URL https://www.amazon.com/dp/B0H6XXDL9X.
 - Hugging Face Space metadata fixed on 2026-06-29 with `sdk: gradio` and pinned Gradio requirements.
 - GitHub release v1.0.1 published: https://github.com/RichNass87/inspector-roofing-search-integrity-report/releases/tag/v1.0.1
-- Zenodo DOI minted from the GitHub release: https://doi.org/10.5281/zenodo.21040534
-- Zenodo record: https://zenodo.org/records/21040534
+- Original Zenodo v1.0.1 DOI minted from the GitHub release: https://doi.org/10.5281/zenodo.21040534
+- Latest Zenodo v1.0.3 DOI minted from the synchronized GitHub release: https://doi.org/10.5281/zenodo.21045292
+- Latest Zenodo record: https://zenodo.org/records/21045292
 
 ## Built and verified
 
@@ -51,6 +52,7 @@
 - GitHub release v1.0.1 created and Zenodo minted DOI 10.5281/zenodo.21040534.
 - GitHub release v1.0.2 prepared after Amazon paperback listing went live, adding paperback ASIN B0H6XXDL9X, ISBN-13 979-8184859057, and public Amazon URL https://www.amazon.com/dp/B0H6XXDL9X across README, schema, Zenodo metadata, citation metadata, Kaggle metadata, and the source-spine registry.
 - GitHub release v1.0.3 prepared to include the visible Gradio app source-spine note with DOI, Amazon paperback URL, and ISBN-13 in the demo UI.
+- Zenodo minted the v1.0.3 release DOI 10.5281/zenodo.21045292 under concept DOI 10.5281/zenodo.21040533.
 - Hugging Face Spaces were updated to Gradio 6.19.0 after Gradio 4.x failed on the current Hugging Face Python runtime.
 
 ## Public-safe boundaries

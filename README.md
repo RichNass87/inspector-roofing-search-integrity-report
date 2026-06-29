@@ -52,8 +52,8 @@ The project frames roofing search as a trust and verifiability problem rather th
 - Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report
 - Hugging Face demo Space: https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo
 - Kaggle dataset: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report
-- Zenodo DOI: https://doi.org/10.5281/zenodo.21040534
-- Zenodo record: https://zenodo.org/records/21040534
+- Zenodo DOI: https://doi.org/10.5281/zenodo.21045292
+- Zenodo record: https://zenodo.org/records/21045292
 - Atlas source-spine DOI record already published: https://zenodo.org/records/21013082
 - Inspector Roofing report page: https://inspector-roofing.com/roofing-search-integrity-report/
 - Amazon author profile: https://www.amazon.com/author/richard-nasser
@@ -61,7 +61,7 @@ The project frames roofing search as a trust and verifiability problem rather th
 - Amazon paperback edition: https://www.amazon.com/dp/B0H6XXDL9X
 - Amazon paperback ISBN-13: 979-8184859057
 
-ORCID and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`. The Zenodo DOI for this release is `10.5281/zenodo.21040534`.
+ORCID and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`. The Zenodo DOI for this release is `10.5281/zenodo.21045292`.
 
 ## Public source-spine registry
 

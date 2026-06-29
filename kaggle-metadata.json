@@ -2,7 +2,7 @@
   "title": "Roofing Search Integrity Report",
   "id": "inspectorroofing/roofing-search-integrity-report",
   "subtitle": "DOI-backed public-safe roofing search integrity dataset, app, and KDP report.",
-  "description": "Public-safe research dataset, source-spine registry, demo app, and KDP-submitted report about local roofing search integrity, AI-visible trust, review provenance, verifiable roofing evidence, and the June 24, 2026 Google spam update. DOI: 10.5281/zenodo.21040534. Website: https://inspector-roofing.com/roofing-search-integrity-report/. GitHub: https://github.com/RichNass87/inspector-roofing-search-integrity-report. Hugging Face: https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report. Amazon Kindle ASIN: B0H6XVP47W. Amazon paperback ASIN: B0H6XXDL9X. Amazon paperback URL: https://www.amazon.com/dp/B0H6XXDL9X. Paperback ISBN-13: 979-8184859057.",
+  "description": "Public-safe research dataset, source-spine registry, demo app, and KDP-submitted report about local roofing search integrity, AI-visible trust, review provenance, verifiable roofing evidence, and the June 24, 2026 Google spam update. DOI: 10.5281/zenodo.21045292. Website: https://inspector-roofing.com/roofing-search-integrity-report/. GitHub: https://github.com/RichNass87/inspector-roofing-search-integrity-report. Hugging Face: https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report. Amazon Kindle ASIN: B0H6XVP47W. Amazon paperback ASIN: B0H6XXDL9X. Amazon paperback URL: https://www.amazon.com/dp/B0H6XXDL9X. Paperback ISBN-13: 979-8184859057.",
   "licenses": [
     {
       "name": "CC-BY-4.0"

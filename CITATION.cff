@@ -19,10 +19,10 @@ keywords:
 license: CC-BY-4.0
 repository-code: "https://github.com/RichNass87/inspector-roofing-search-integrity-report"
 url: "https://inspector-roofing.com/roofing-search-integrity-report/"
-doi: "10.5281/zenodo.21040534"
+doi: "10.5281/zenodo.21045292"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.21040534"
+    value: "10.5281/zenodo.21045292"
   - type: url
     value: "https://www.amazon.com/dp/B0H6XXDL9X"
   - type: other
