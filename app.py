@@ -91,7 +91,7 @@ def main():
         inputs=gr.Textbox(label="Roofing page, query, or customer question", lines=3, value="best insurance roofing company in Alpharetta after hail damage"),
         outputs=gr.Code(label="Public-safe search integrity recommendations", language="json"),
         title="Roofing Search Integrity Demo",
-        description="Public-safe demo for classifying roofing search intent after the June 24, 2026 spam update. No private customer data, no scraping, no ranking guarantees.",
+        description="Public-safe demo for classifying roofing search intent after the June 24, 2026 spam update. No private customer data, no scraping, no ranking guarantees. Source-spine anchors: DOI 10.5281/zenodo.21040534, Amazon paperback https://www.amazon.com/dp/B0H6XXDL9X, ISBN-13 979-8184859057.",
     )
     demo.launch(server_name="0.0.0.0", server_port=7860)
 
