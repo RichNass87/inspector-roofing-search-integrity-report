@@ -54,6 +54,11 @@
       "identifier": "https://www.amazon.com/author/richard-nasser",
       "relation": "isDocumentedBy",
       "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21040534",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
     }
   ]
 }

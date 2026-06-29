@@ -52,11 +52,13 @@ The project frames roofing search as a trust and verifiability problem rather th
 - Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report
 - Hugging Face demo Space: https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo
 - Kaggle dataset: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report
+- Zenodo DOI: https://doi.org/10.5281/zenodo.21040534
+- Zenodo record: https://zenodo.org/records/21040534
 - Atlas source-spine DOI record already published: https://zenodo.org/records/21013082
 - Inspector Roofing report page: https://inspector-roofing.com/roofing-search-integrity-report/
 - Amazon KDP status as of 2026-06-29: Kindle eBook publishing/in review at $4.99 USD, ASIN `B0H6XVP47W`; paperback publishing at $9.99 USD, ASIN `B0H6XXDL9X`. Add final public Amazon sales URLs after the pages are fully live.
 
-Zenodo, ORCID, and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`. The new Roofing Search Integrity Zenodo DOI should be added here after the Zenodo deposit is published.
+ORCID and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`. The Zenodo DOI for this release is `10.5281/zenodo.21040534`.
 
 ## Public-safe boundaries
 

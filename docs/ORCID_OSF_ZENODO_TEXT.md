@@ -22,6 +22,8 @@ Google Search; local SEO; AI search; search integrity; roofing; fake reviews; Di
 - Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report
 - Hugging Face demo app: https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo
 - Kaggle dataset: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report
+- Zenodo DOI: https://doi.org/10.5281/zenodo.21040534
+- Zenodo record: https://zenodo.org/records/21040534
 - Inspector Roofing report page: https://inspector-roofing.com/roofing-search-integrity-report/
 - Amazon author profile: https://www.amazon.com/author/richard-nasser
 

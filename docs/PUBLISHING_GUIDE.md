@@ -16,7 +16,11 @@ Dataset target: `inspectorroofing/roofing-search-integrity-report`
 
 ## Zenodo
 
-Upload the ZIP plus `book/roofing-search-integrity-report-kdp-interior.pdf`. Use `.zenodo.json` metadata.
+Published through the GitHub-Zenodo release integration.
+
+- DOI: https://doi.org/10.5281/zenodo.21040534
+- Record: https://zenodo.org/records/21040534
+- GitHub release: https://github.com/RichNass87/inspector-roofing-search-integrity-report/releases/tag/v1.0.1
 
 ## ORCID / OSF
 

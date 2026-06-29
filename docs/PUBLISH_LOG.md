@@ -10,6 +10,9 @@
 - Inspector Roofing report page published: https://inspector-roofing.com/roofing-search-integrity-report/
 - Amazon KDP submitted on 2026-06-29: Kindle eBook publishing/in review at $4.99 USD, ASIN B0H6XVP47W; paperback publishing at $9.99 USD, ASIN B0H6XXDL9X. Public Amazon sales URLs still pending final Amazon availability.
 - Hugging Face Space metadata fixed on 2026-06-29 with `sdk: gradio` and pinned Gradio requirements.
+- GitHub release v1.0.1 published: https://github.com/RichNass87/inspector-roofing-search-integrity-report/releases/tag/v1.0.1
+- Zenodo DOI minted from the GitHub release: https://doi.org/10.5281/zenodo.21040534
+- Zenodo record: https://zenodo.org/records/21040534
 
 ## Built and verified
 
@@ -23,7 +26,6 @@
 
 ## Needs platform session or manual upload
 
-- Zenodo: use `.zenodo.json`, `book/roofing-search-integrity-report-kdp-interior.pdf`, and the ZIP. The Chrome session timed out before a stable upload could be completed.
 - ORCID: use `docs/ORCID_OSF_ZENODO_TEXT.md` to create a work entry.
 - OSF: use `docs/ORCID_OSF_ZENODO_TEXT.md` plus the ZIP. Prior OSF project state has shown platform review/spam-review friction.
 
@@ -45,6 +47,8 @@
 - Public Amazon sales URLs: pending final Amazon availability.
 - Hugging Face runtime compatibility fixed with `audioop-lts>=0.2.1` and `huggingface_hub<1.0` pins.
 - Hugging Face Space records moved past the missing-SDK configuration error after README front matter was updated.
+- GitHub release v1.0.1 created and Zenodo minted DOI 10.5281/zenodo.21040534.
+- Hugging Face Spaces were updated to Gradio 6.19.0 after Gradio 4.x failed on the current Hugging Face Python runtime.
 
 ## Public-safe boundaries
 
