@@ -83,7 +83,7 @@ def main():
     try:
         import gradio as gr
     except Exception:
-        subprocess.check_call([sys.executable, "-m", "pip", "install", "gradio==4.44.1", "huggingface_hub<1.0", "audioop-lts>=0.2.1"])
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "gradio==6.19.0"])
         import gradio as gr
 
     demo = gr.Interface(
