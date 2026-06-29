@@ -56,6 +56,16 @@
       "scheme": "url"
     },
     {
+      "identifier": "https://www.amazon.com/dp/B0H6XVP47W",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.amazon.com/dp/B0H6XXDL9X",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
       "identifier": "10.5281/zenodo.21040534",
       "relation": "isIdenticalTo",
       "scheme": "doi"

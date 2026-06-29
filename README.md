@@ -56,9 +56,15 @@ The project frames roofing search as a trust and verifiability problem rather th
 - Zenodo record: https://zenodo.org/records/21040534
 - Atlas source-spine DOI record already published: https://zenodo.org/records/21013082
 - Inspector Roofing report page: https://inspector-roofing.com/roofing-search-integrity-report/
-- Amazon KDP status as of 2026-06-29: Kindle eBook publishing/in review at $4.99 USD, ASIN `B0H6XVP47W`; paperback publishing at $9.99 USD, ASIN `B0H6XXDL9X`. Add final public Amazon sales URLs after the pages are fully live.
+- Amazon author profile: https://www.amazon.com/author/richard-nasser
+- Amazon Kindle edition: https://www.amazon.com/dp/B0H6XVP47W
+- Amazon paperback edition: https://www.amazon.com/dp/B0H6XXDL9X
 
 ORCID and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`. The Zenodo DOI for this release is `10.5281/zenodo.21040534`.
+
+## Public source-spine registry
+
+The crawlable source-spine map for GitHub, Zenodo, Hugging Face, Kaggle, Amazon, and the Inspector Roofing website is stored in `data/source_spine_registry.json`. It includes the public DOI-backed roofing research projects shown in the Zenodo/GitHub sync list plus the public website hub each project should point back to.
 
 ## Public-safe boundaries
 

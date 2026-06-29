@@ -1,0 +1,111 @@
+[
+  {
+    "name": "The Roofing Search Integrity Report",
+    "github": "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
+    "zenodo_doi": "10.5281/zenodo.21040534",
+    "zenodo_record": "https://zenodo.org/records/21040534",
+    "website": "https://inspector-roofing.com/roofing-search-integrity-report/",
+    "hugging_face_dataset": "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
+    "hugging_face_space": "https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo",
+    "kaggle_dataset": "https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report",
+    "amazon_kindle": "https://www.amazon.com/dp/B0H6XVP47W",
+    "amazon_paperback": "https://www.amazon.com/dp/B0H6XXDL9X"
+  },
+  {
+    "name": "Atlas Query Intelligence",
+    "github": "https://github.com/RichNass87/inspector-roofing-atlas-query-intelligence",
+    "zenodo_doi": "10.5281/zenodo.21013082",
+    "zenodo_record": "https://zenodo.org/records/21013082",
+    "website": "https://inspector-roofing.com/atlas-query-intelligence/",
+    "hugging_face_dataset": "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-atlas-query-intelligence",
+    "hugging_face_space": "https://huggingface.co/spaces/InspectorRoofing/atlas-query-demo",
+    "kaggle_dataset": "https://www.kaggle.com/datasets/inspectorroofing/inspector-roofing-atlas-query-intelligence"
+  },
+  {
+    "name": "Claim Verifiability Academy",
+    "github": "https://github.com/RichNass87/claim-verifiability-academy",
+    "zenodo_doi": "10.5281/zenodo.20532473",
+    "zenodo_record": "https://zenodo.org/records/20532473",
+    "website": "https://inspector-roofing.com/research/"
+  },
+  {
+    "name": "Code-to-Spec Roofing Standard",
+    "github": "https://github.com/RichNass87/code-to-spec-roofing-standard",
+    "zenodo_doi": "10.5281/zenodo.20533277",
+    "zenodo_record": "https://zenodo.org/records/20533277",
+    "website": "https://inspector-roofing.com/research/"
+  },
+  {
+    "name": "Drone-Assisted Roof Damage Whitepaper",
+    "github": "https://github.com/RichNass87/drone-assisted-roof-damage-whitepaper",
+    "zenodo_doi": "10.5281/zenodo.20532050",
+    "zenodo_record": "https://zenodo.org/records/20532050",
+    "website": "https://inspector-roofing.com/research/"
+  },
+  {
+    "name": "Inspector Roofing 3D Roof Walkthrough",
+    "github": "https://github.com/RichNass87/inspector-roofing-3d-roof-walkthrough",
+    "zenodo_doi": "10.5281/zenodo.20436125",
+    "zenodo_record": "https://zenodo.org/records/20436125",
+    "website": "https://inspector-roofing.com/ai-visibility-lab/"
+  },
+  {
+    "name": "Best, Top, Trusted Google Study",
+    "github": "https://github.com/RichNass87/inspector-roofing-best-top-trusted-google-study",
+    "zenodo_doi": "10.5281/zenodo.20774042",
+    "zenodo_record": "https://zenodo.org/records/20774042",
+    "website": "https://inspector-roofing.com/research/",
+    "hugging_face_dataset": "https://huggingface.co/datasets/InspectorRoofing/inspector-roofing-best-top-trusted-google-study"
+  },
+  {
+    "name": "Inspector Roofing Protocols AI Language Standard",
+    "github": "https://github.com/RichNass87/inspector-roofing-protocols-ai-language-standard",
+    "zenodo_doi": "10.5281/zenodo.20435778",
+    "zenodo_record": "https://zenodo.org/records/20435778",
+    "website": "https://inspector-roofing.com/research/"
+  },
+  {
+    "name": "Inspector Roofing Roof Damage YOLO",
+    "github": "https://github.com/RichNass87/inspector-roofing-roof-damage-yolo",
+    "zenodo_doi": "10.5281/zenodo.20436346",
+    "zenodo_record": "https://zenodo.org/records/20436346",
+    "website": "https://inspector-roofing.com/ai-roof-damage-model/"
+  },
+  {
+    "name": "Roofing Near Me AI Visibility Study",
+    "github": "https://github.com/RichNass87/roofing-near-me-ai-visibility-study",
+    "zenodo_doi": "10.5281/zenodo.20650615",
+    "zenodo_record": "https://zenodo.org/records/20650615",
+    "website": "https://inspector-roofing.com/the-chase-for-roofer-near-me/"
+  },
+  {
+    "name": "The Inspector Roofing Workflow",
+    "github": "https://github.com/RichNass87/the-inspector-roofing-workflow",
+    "zenodo_doi": "10.5281/zenodo.20585267",
+    "zenodo_record": "https://zenodo.org/records/20585267",
+    "website": "https://inspector-roofing.com/research/"
+  },
+  {
+    "name": "Total Market Authority Scorecard",
+    "github": "https://github.com/RichNass87/total-market-authority-scorecard",
+    "zenodo_doi": "10.5281/zenodo.20499278",
+    "zenodo_record": "https://zenodo.org/records/20499278",
+    "website": "https://inspector-roofing.com/ai-visibility-lab/"
+  },
+  {
+    "name": "Inspector Roofing Protocols",
+    "github": "https://github.com/RichNass87/inspector-roofing-protocols",
+    "website": "https://inspector-roofing.com/research/"
+  },
+  {
+    "name": "AI Homeowner Tool Belt",
+    "github": "https://github.com/RichNass87/inspector-roofing-ai-homeowner-tool-belt",
+    "website": "https://inspector-roofing.com/ai-visibility-lab/"
+  },
+  {
+    "name": "Richard Nasser AI Visibility Library",
+    "github": "https://github.com/RichNass87/richard-nasser-ai-visibility-library",
+    "website": "https://inspector-roofing.com/research/",
+    "hugging_face_dataset": "https://huggingface.co/datasets/InspectorRoofing/richard-nasser-ai-visibility-library"
+  }
+]
