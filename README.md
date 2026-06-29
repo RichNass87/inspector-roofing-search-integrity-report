@@ -45,6 +45,16 @@ The project frames roofing search as a trust and verifiability problem rather th
 - `book/roofing-search-integrity-report-kdp-interior.pdf` - rendered reader PDF.
 - `book/roofing-search-integrity-report-kdp-cover.png` - cover image.
 
+## Live publication links
+
+- GitHub repository: https://github.com/RichNass87/inspector-roofing-search-integrity-report
+- Hugging Face dataset: https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report
+- Hugging Face demo Space: https://huggingface.co/spaces/InspectorRoofing/roofing-search-integrity-demo
+- Kaggle dataset: https://www.kaggle.com/datasets/inspectorroofing/roofing-search-integrity-report
+- Atlas source-spine DOI record already published: https://zenodo.org/records/21013082
+
+Zenodo, ORCID, and OSF upload text is included in `docs/ORCID_OSF_ZENODO_TEXT.md`.
+
 ## Public-safe boundaries
 
 This project does not include private customer data, private claim files, API keys, direct Google result scraping, proprietary production scoring, or raw photo manifests. It does not claim to reverse engineer Google's private ranking systems and does not guarantee rankings, traffic, leads, DOI indexing, search citations, or AI answer inclusion.
