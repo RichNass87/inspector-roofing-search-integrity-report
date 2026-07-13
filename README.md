@@ -28,7 +28,7 @@ size_categories:
 ## A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search
 
 
-**Author:** Richard Nasser  
+**Author:** Richard Amir Nasser  
 **Organization:** Inspector Roofing and Restoration  
 **Version:** 1.0.3  
 **Book manuscript word count:** 9,057 clean KDP words
