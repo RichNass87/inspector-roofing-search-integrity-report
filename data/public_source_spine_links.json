@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "last_reviewed": "2026-07-15",
+  "canonical_identity": "Richard Amir Nasser",
+  "organization": "Inspector Roofing and Restoration",
+  "verified_entity_anchor": {
+    "wikidata_item": "Q140522693",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q140522693",
+    "title": "The Roofing Search Integrity Report",
+    "official_page": "https://inspector-roofing.com/roofing-search-integrity-report/",
+    "github_repository": "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
+    "hugging_face_dataset": "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
+    "orcid_profile": "https://orcid.org/0009-0000-2980-7543",
+    "zenodo_doi": "10.5281/zenodo.21045292",
+    "zenodo_record": "https://zenodo.org/records/21045292",
+    "amazon_author": "https://www.amazon.com/author/richard-nasser",
+    "isbn13": "979-8184859057"
+  },
+  "owned_hubs": {
+    "person": "https://inspector-roofing.com/richard-nasser/",
+    "bibliography": "https://inspector-roofing.com/author-richard-nasser/",
+    "authority_stack": "https://inspector-roofing.com/authority-stack/"
+  },
+  "cross_link_contract": {
+    "official_page_should_link": [
+      "https://www.wikidata.org/wiki/Q140522693",
+      "https://orcid.org/0009-0000-2980-7543",
+      "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
+      "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
+      "https://zenodo.org/records/21045292"
+    ],
+    "github_should_link": [
+      "https://inspector-roofing.com/roofing-search-integrity-report/",
+      "https://www.wikidata.org/wiki/Q140522693",
+      "https://orcid.org/0009-0000-2980-7543",
+      "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
+      "https://zenodo.org/records/21045292"
+    ],
+    "hugging_face_should_link": [
+      "https://inspector-roofing.com/roofing-search-integrity-report/",
+      "https://www.wikidata.org/wiki/Q140522693",
+      "https://orcid.org/0009-0000-2980-7543",
+      "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
+      "https://zenodo.org/records/21045292"
+    ],
+    "orcid_should_link_or_record": [
+      "https://zenodo.org/records/21045292",
+      "https://inspector-roofing.com/roofing-search-integrity-report/"
+    ],
+    "wikidata_should_describe": [
+      "https://zenodo.org/records/21045292",
+      "https://inspector-roofing.com/roofing-search-integrity-report/",
+      "https://github.com/RichNass87/inspector-roofing-search-integrity-report",
+      "https://huggingface.co/datasets/InspectorRoofing/roofing-search-integrity-report",
+      "https://orcid.org/0009-0000-2980-7543"
+    ]
+  },
+  "status": {
+    "confirmed_anchor": "Q140522693 is the surviving confirmed Wikidata anchor in the local audit.",
+    "confirmed_public_links": [
+      "official_page",
+      "github_repository",
+      "hugging_face_dataset",
+      "orcid_profile",
+      "zenodo_record",
+      "amazon_author"
+    ],
+    "needs_public_update": [
+      "Update the Richard hub display from 31 Public Amazon Books to 32.",
+      "Replace the Authority Stack's stale Q140456045 report link with Q140522693.",
+      "Add direct ORCID and Wikidata links to the GitHub README and source-spine registry.",
+      "Add direct ORCID and Wikidata links to the Hugging Face dataset card.",
+      "Add references to the existing Q140522693 statements before adding new claims."
+    ],
+    "identity_boundary": "Richard Amir Nasser is canonical. Richard Nasser and Richard A. Nasser remain older source-display variants only.",
+    "insurance_boundary": "Inspector Roofing documents observable conditions and supports review-ready roof files; carriers decide coverage, payment, and claim outcomes."
+  }
+}
