@@ -68,7 +68,6 @@
     "needs_public_update": [
       "Update the Richard hub display from 31 Public Amazon Books to 32.",
       "Replace the Authority Stack's stale Q140456045 report link with Q140522693.",
-      "Add direct ORCID and Wikidata links to the GitHub README and source-spine registry.",
       "Add direct ORCID and Wikidata links to the Hugging Face dataset card.",
       "Add references to the existing Q140522693 statements before adding new claims."
     ],
