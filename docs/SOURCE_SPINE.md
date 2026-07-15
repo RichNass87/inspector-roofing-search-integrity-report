@@ -24,8 +24,8 @@ Each public project record should point back to the official report page, the ca
 
 ## Audit notes
 
-- The GitHub and Hugging Face pages already expose most of the report, DOI, website, and dataset links.
-- Direct ORCID and Wikidata links are still needed on the GitHub README and Hugging Face dataset card.
+- The GitHub README and source-spine registry now expose direct ORCID and Q140522693 links.
+- The Hugging Face dataset card exposes GitHub, Zenodo, the report page, Kaggle, and Amazon, but its visible card still needs direct ORCID and Q140522693 links.
 - The Richard hub still has stale 31-book display text; the bibliography page shows 32 public books.
 - The Authority Stack currently displays the older Q140456045 report identifier and should be corrected to Q140522693.
 - Do not treat the other tracked QIDs as live until each is independently confirmed.
