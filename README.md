@@ -23,6 +23,8 @@ size_categories:
 
 # The Roofing Search Integrity Report
 
+![The Roofing Search Integrity Report by Richard Amir Nasser](https://inspector-roofing.com/wp-content/uploads/2026/07/roofing-search-integrity-report-richard-amir-nasser.png)
+
 ## A funny, field-tested study of AI spam, fake trust, June 24, and the future of verifiable local search
 
 **Author:** Richard Amir Nasser  
